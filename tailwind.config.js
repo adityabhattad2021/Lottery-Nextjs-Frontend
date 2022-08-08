@@ -13,9 +13,6 @@ module.exports = {
       'xl': '1280px',
     },
     extend: {
-      fontFamily: {
-        PressStart: ["Press Start 2P", "cursive"],
-       },
     }
   },
   darkMode: ['class'],
