@@ -1,6 +1,7 @@
 # Nextjs Frontend of smart contract lottery.
 
-Built with ❤️ using: NextJS Solidity Chainlink Moralis web3uikit Ethers Hardhat 
+Built using: NextJS Solidity Chainlink Moralis web3uikit Ethers Hardhat 
+![GITHUBUPL](https://user-images.githubusercontent.com/93488388/183623456-2aca65cf-ef59-4fda-a2f0-b01e466d3b9e.png)
 
 Site Live On: https://silent-tree-2650.on.fleek.co/
  
